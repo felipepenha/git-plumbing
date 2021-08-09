@@ -1,2 +1,2 @@
-# git-pumbling-recipes
-Git pumbling, not the usual porcelain.
+# git-plumbing-recipes
+Git plumbing, not the usual porcelain.
